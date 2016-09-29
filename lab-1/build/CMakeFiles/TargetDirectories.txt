@@ -1,4 +1,0 @@
-C:/University/Labs-3/lab-1/build/CMakeFiles/hw.dir
-C:/University/Labs-3/lab-1/build/CMakeFiles/main.dir
-C:/University/Labs-3/lab-1/build/CMakeFiles/ALL_BUILD.dir
-C:/University/Labs-3/lab-1/build/CMakeFiles/ZERO_CHECK.dir
